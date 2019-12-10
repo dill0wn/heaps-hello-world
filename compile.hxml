@@ -1,0 +1,5 @@
+-lib heaps
+# -lib domkit:git:https://github.com/HeapsIO/domkit.git
+-js hello.js
+-main Main
+-debug
